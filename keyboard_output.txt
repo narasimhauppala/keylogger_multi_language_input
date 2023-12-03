@@ -1,0 +1,179 @@
+d
+tab
+d
+s
+ctrl_l
+ 
+ctrl_r
+c
+x
+d
+s
+v
+ctrl_l
+c
+g
+h
+h
+g
+b
+v
+b
+v
+ctrl_l
+c
+h
+g
+h
+g
+alt_gr
+ 
+ 
+ 
+ 
+ 
+8
+ 
+2
+3
+3
+2
+2
+2
+i
+8
+u
+7
+j
+j
+b
+i
+backspace
+i
+ 
+b
+media_volume_down
+media_volume_mute
+right
+left
+ 
+esc
+h
+g
+f
+g
+h
+g
+h
+tab
+shift
+a
+z
+z
+f
+/
+.
+/
+.
+/
+.
+/
+.
+/
+/
+shift_r
+/
+/
+/
+/
+/
+h
+j
+h
+j
+h
+j
+b
+h
+j
+h
+b
+j
+h
+b
+j
+b
+h
+j
+b
+h
+j
+b
+h
+j
+b
+h
+j
+j
+y
+t
+f
+h
+g
+u
+h
+j
+y
+g
+h
+i
+k
+h
+j
+k
+i
+u
+i
+h
+i
+u
+h
+b
+u
+i
+h
+j
+k
+h
+j
+k
+j
+k
+h
+j
+k
+h
+j
+m
+ 
+ctrl_l
+c
+c
+i  73  23 1074348041 40094009 LATIN SMALL LETTER I
+4  100  75 1074348041 40094009 DIGIT FOUR
+i  73  23 1074348041 40094009 LATIN SMALL LETTER I
+j  74  36 1074348041 40094009 LATIN SMALL LETTER J
+ا  72  35 -265743359 f0291401 ARABIC LETTER ALEF
+ع  85  22 -265743359 f0291401 ARABIC LETTER AIN
+ا  72  35 -265743359 f0291401 ARABIC LETTER ALEF
+ا  72  35 -265743359 f0291401 ARABIC LETTER ALEF
+ه  73  23 -265743359 f0291401 ARABIC LETTER HEH
+ع  85  22 -265743359 f0291401 ARABIC LETTER AIN
+ه  73  23 -265743359 f0291401 ARABIC LETTER HEH
+ا  72  35 -265743359 f0291401 ARABIC LETTER ALEF
+ي  68  32 -265743359 f0291401 ARABIC LETTER YEH
+ء  88  45 -265743359 f0291401 ARABIC LETTER HAMZA
+ا  72  35 -265743359 f0291401 ARABIC LETTER ALEF
+ل  71  34 -265743359 f0291401 ARABIC LETTER LAM
+ب  70  33 -265743359 f0291401 ARABIC LETTER BEH
+ء  88  45 -265743359 f0291401 ARABIC LETTER HAMZA
