@@ -6,8 +6,8 @@ This keylogger is developed strictly for educational purposes. It is meant to be
 
 ## Features
 
-- Captures keyboard input for educational purposes.
-- Supports multiple languages for learning about input processing.
+- Captures keyboard input.
+- Supports multiple languages for capturing varius types of languages.
 - Logs data to a file.
 
 ## Getting Started
