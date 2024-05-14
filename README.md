@@ -17,7 +17,7 @@ This keylogger is developed strictly for educational purposes. It is meant to be
 - Python 3.x
 - pynput
 
-``` cd educational-keylogger ```
+``` cd keylogger_multi_language_input ```
 
 ``` python keylogger.py ```
 
